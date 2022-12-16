@@ -1,5 +1,5 @@
 body{
-  font-family:sens-serif;
+  font-family:Comfortaa;
   margin:0px;
   padding:0px;
   display:flex;
@@ -53,3 +53,9 @@ font-size: 10px;
 
 
 
+div{
+    height:150px;
+    width:150px;
+    border:5px;
+    
+}
